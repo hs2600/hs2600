@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 My name is [Horacio](https://twitter.com/hsantoyo_sec)
 
 <!--
 **hs2600/hs2600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+  <a href="https://twitter.com/hsantoyo_sec">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/hsantoyo_sec?style=for-the-badge&logo=twitter&color=00ACEE">
+  </a>  
+  
+</p>
+
+<a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=danharrin&show_icons=true" align="right" height="150" /></a>
+
+### 📦 I'm currently working on...
+- [NefCloud](https://nefcloud.com), a file storage and sharing SaaS.
