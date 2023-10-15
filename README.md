@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
 </p>
 
-<a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=hs2600&show_icons=true" align="right" height="150" /></a>
+<a href="https://github.com/hs2600"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=hs2600&show_icons=true" align="right" height="150" /></a>
 
 ### 📦 I'm currently working on...
 - [NefCloud](https://nefcloud.com), a file storage and sharing SaaS.
